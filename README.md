@@ -72,5 +72,3 @@ c-shell> log execute 3
 ```
 
 ---
-
-*This project demonstrates a deep understanding of Operating Systems concepts, memory management in C, and POSIX system programming.*
